@@ -1,73 +1,31 @@
 
 
-## Instagram
+## Hotel Management
 
 * SpringBoot Java code using JAVA
 
 
 ## controller
 
-AdminController
-
-UserController
+* RoomController
 
 
 ## service
 
-UserService
-
-AdminService
-
-AuthenticationTokenService
-
-CommentService
-
-FollowService
-
-LikeService
-
-PostService
+* RoomService
 
 
-## repository
+## repository 
 
-IUserRepo
-
-IAdminRepo
-
-IAuthenticationTokenRepo
-
-ICommentRepo
-
-IFollowRepo
-
-ILikeRepo
-
-IPostRepo
+* IRoomRepo
 
 
 ## model
 
-*  dto
+*  HotelRoom
 
-SignInInput
+* Type
 
-SignUpOutput
-
-* enums
-User
-
-Admin
-
-Authentication Token
-
-Comment
-
-Follow
-
-Like 
-
-Post
 
 
 
